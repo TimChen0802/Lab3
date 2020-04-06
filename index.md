@@ -5,7 +5,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## 推薦自學網頁的網站
 <br>
 1.[https://getbootstrap.com/docs/4.3/components/buttons/](https://getbootstrap.com/docs/4.3/components/buttons/)<br>
-2.[https://www.w3schools.com/]<br>
+2.[https://www.w3schools.com/](https://www.w3schools.com/)<br>
 <iframe width="725" height="500" src="https://www.youtube.com/embed/9X1graZtuPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 ### 網頁組成要素
