@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/TimChen0802/Lab3/edit/mast
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ## 推薦自學網頁的網站
 <br>
-1. https://getbootstrap.com/docs/4.3/components/buttons/
-<br>
+1. (https://getbootstrap.com/docs/4.3/components/buttons/)<br>
 2. https://www.w3schools.com/ <br>
 <iframe width="725" height="500" src="https://www.youtube.com/embed/9X1graZtuPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
