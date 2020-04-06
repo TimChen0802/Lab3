@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. https://getbootstrap.com/docs/4.3/components/buttons/
 <br>
 2. https://www.w3schools.com/ <br>
-<iframe width="750" height="500" src="https://www.youtube.com/embed/9X1graZtuPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="725" height="500" src="https://www.youtube.com/embed/9X1graZtuPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 ### 網頁組成要素
 
