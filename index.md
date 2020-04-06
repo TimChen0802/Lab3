@@ -1,5 +1,3 @@
-<body background="https://i.imgur.com/Dp2ZvXr.jpg">
-
 ## 歡迎來到此網站
 You can use the [editor on GitHub](https://github.com/TimChen0802/Lab3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
