@@ -16,9 +16,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 6.container<br>
 7.logo<br>
 
-### Jekyll Themes
+### 做網頁的訣竅
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TimChen0802/Lab3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+要什麼給什麼<br>
+多利用CSS或JavaScript控制網頁會便利許多
 
 ### Support or Contact
 
