@@ -1,4 +1,4 @@
-## 歡迎來到此網站<button src="https://github.com/">Click the buttont to github</button>
+## 歡迎來到此網站<button  width="600" height="500">[Click to Github](https://github.com/) </button>
 You can use the [editor on GitHub](https://github.com/TimChen0802/Lab3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
