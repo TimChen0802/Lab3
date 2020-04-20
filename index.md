@@ -1,4 +1,4 @@
-## 歡迎來到此網站<button>Click the button</button>
+## 歡迎來到此網站<button src="https://github.com/">Click the buttont to github</button>
 You can use the [editor on GitHub](https://github.com/TimChen0802/Lab3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 1.html<br>
 2.css(也可以直接寫在Html裡)或用Javascript控制網頁排版<br>
-3.title<br>
+3.title<br>(標題)
 4.header<br>
 5.body<br>
 6.container<br>
